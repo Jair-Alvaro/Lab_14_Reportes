@@ -1,0 +1,52 @@
+[
+  {
+    "titulo": "Titanic",
+    "genero": "Drama",
+    "lanzamiento": 1997
+  },
+  {
+    "titulo": "Jurassic Park",
+    "genero": "Aventura",
+    "lanzamiento": 1993
+  },
+  {
+    "titulo": "Forrest Gump",
+    "genero": "Drama",
+    "lanzamiento": 1994
+  },
+  {
+    "titulo": "The Shawshank Redemption",
+    "genero": "Drama",
+    "lanzamiento": 1994
+  },
+  {
+    "titulo": "The Dark Knight",
+    "genero": "Acción",
+    "lanzamiento": 2008
+  },
+  {
+    "titulo": "The Godfather",
+    "genero": "Crimen",
+    "lanzamiento": 1972
+  },
+  {
+    "titulo": "Inception",
+    "genero": "Ciencia Ficción",
+    "lanzamiento": 2010
+  },
+  {
+    "titulo": "Schindler's List",
+    "genero": "Drama",
+    "lanzamiento": 1993
+  },
+  {
+    "titulo": "Gladiator",
+    "genero": "Acción",
+    "lanzamiento": 2000
+  },
+  {
+    "titulo": "The Matrix",
+    "genero": "Ciencia Ficción",
+    "lanzamiento": 1999
+  }
+]
